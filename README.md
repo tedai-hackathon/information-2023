@@ -1,2 +1,2 @@
 # information-2023
-Information about the TEDAI Hackathon
+Information about the TED AI Hackathon

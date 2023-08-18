@@ -1,2 +1,3 @@
-# information-2023
-Information about the TED AI Hackathon
+# TED AI Open Source Hackathon
+
+Read the [FAQ](faq.md) for details.

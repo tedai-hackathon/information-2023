@@ -72,7 +72,7 @@ There is no registration fee for the hackathon.
 Teams will consist of 2 to 5 members. If you prefer to participate in a team, make sure all team members are registered for the hackathon and indicate your team’s name during the registration process.
 
 ## Are teams required to attend in person or is remote participation ok?
-We want to encourage on-site participation and would desire at least one team member from each team to attend live, and preferably, all team members should attend live.
+We want to encourage on-site participation, all team members should attend live, let the TED AI Hackathon team if there is a mitigating circumstance.
 
 ## What should I bring to the hackathon?
 Participants should bring their own laptops, chargers, and any other tools or software they require for coding. The hackathon organizers will provide the space, power, and Internet required for the competition.

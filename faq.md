@@ -63,7 +63,7 @@ Oct 15:  Hackathon end
 Register your team at https://ai-event.ted.com/hackathon.  We will then evaluate their submission and let them know. The space is limited so don't wait.
 
 ## Who can participate in the hackathon?
-This would be available to anybody who can bring a team of people and is passionate about solving societal and environmental issues using the power of AI. Technical skills will be required in some combinations across the team in roles such ash: Subject matter expert,  Data Scientist,  Developer, Designer/Developer, among other possibilities. You don't need to be a TED AI attendee to participate in this hackathon. 
+This would be available to anybody who can bring a team of people and is passionate about solving societal and environmental issues using the power of AI. Technical skills will be required in some combinations across the team in roles such as: Subject matter expert,  Data Scientist,  Developer, Designer/Developer, among other possibilities. You don't need to be a TED AI attendee to participate in this hackathon. 
 
 ## Is there a registration fee for the hackathon?
 There is no registration fee for the hackathon.

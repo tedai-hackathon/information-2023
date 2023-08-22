@@ -1,35 +1,69 @@
 # SDG Challenges and Datasets
 
-## SDG1: End poverty in all its forms everywhere
+## SDG1: No Poverty
 
-## SDG2: 
+End poverty in all its forms everywhere.
 
-## SDG3: 
+## SDG2: Zero Hunger
 
-## SDG4: 
+End hunger, achieve food security and improved nutrition and promote sustainable agriculture.
 
-## SDG5: 
+## SDG3: Good Health and Well-being
 
-## SDG6: 
+Ensure healthy lives and promote well-being for all at all ages.
 
-## SDG7: 
+## SDG4: Quality Education
 
-## SDG8: 
+Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
 
-## SDG9: 
+## SDG5: Gender Equality
 
-## SDG10: 
+Achieve gender equality and empower all women and girls.
 
-## SDG11: 
+## SDG6: Clean Water and Sanitation
 
-## SDG12: 
+Ensure availability and sustainable management of water and sanitation for all.
 
-## SDG13: 
+## SDG7: Affordable and Clean Energy: 
 
-## SDG14: 
+Ensure access to affordable, reliable, sustainable and modern energy for all.
 
-## SDG15: 
+## SDG8: Decent Work and Economic Growth
 
-## SDG16: 
+Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.
 
-## SDG17: 
+## SDG9: Industry, Innovation, and Infrastructure
+
+Build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.
+
+## SDG10: Reduced Inequality
+
+Reduce inequality within and among countries.
+
+## SDG11: Sustainable Cities and Communities
+
+Make cities and human settlements inclusive, safe, resilient, and sustainable.
+
+## SDG12
+
+Responsible Consumption and Production: Ensure sustainable consumption and production patterns.
+
+## SDG13: Climate Action
+
+Take urgent action to combat climate change and its impacts.
+
+## SDG14: Life Below Water
+
+Conserve and sustainably use the oceans, seas, and marine resources for sustainable development.
+
+## SDG15: Life on Land
+
+Protect, restore, and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.
+
+## SDG16: Peace, Justice, and Strong Institutions
+
+Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable, and inclusive institutions at all levels.
+
+## SDG17: Partnerships to Achieve the Goal
+
+Strengthen the means of implementation and revitalize the global partnership for sustainable development.

@@ -1,5 +1,7 @@
 # SDG Challenges and Datasets
 
+[SDG Data Catalog](https://ai4good.org/what-we-do/sdg-data-catalog/) from [AI For Good](https://ai4good.org/what-we-do/sdg-data-catalog/) is an excellent resource that provides an extensive database of datasets aligned with SDGs. We recommend that you look at that list first. Additional datasets are also mentioned below.
+
 ## SDG1: No Poverty
 
 End poverty in all its forms everywhere.

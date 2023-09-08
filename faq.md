@@ -93,7 +93,7 @@ The judging criteria for the hackathon will consider factors such as innovation,
 More details about cloud access will be provided closer to the hackathon date.
 
 ## Are there any prizes for the winners?
-Prizes will be awarded to the winners of the hackathon. Details will be announced closer to the hackathon.
+Venture Science is supporting the TED AI Hackathon by offering an unprecedented opportunity for innovation and entrepreneurship. The winner of the hackathon will receive a $25,000 investment to turn their hackathon project into a fully-fledged startup!
 
 ## Can I attend the hackathon even if I am not participating?
 The hackathon is only intended for registered participants.

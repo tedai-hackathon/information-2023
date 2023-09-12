@@ -78,7 +78,7 @@ We want to encourage on-site participation, all team members should attend live,
 Participants should bring their own laptops, chargers, and any other tools or software they require for coding. The hackathon organizers will provide the space, power, and Internet required for the competition.
 
 ## What programming languages and technologies are allowed?
-The hackathon is technology-agnostic, meaning you are free to choose any tool, modern programming language used by AI tools, framework, or technology stack to develop your AI solution. The focus is on creativity, innovation, and the practical maintainable implementation of AI concepts.
+The hackathon is technology-agnostic, meaning you are free to choose any tool, modern programming language used by AI tools, framework, or technology stack to develop your AI solution. The focus is on creativity, innovation, and the practical maintainable implementation of AI concepts. Howevver, several companies are offering access to the enterprise version of their open source software for the participants. For example, LangSmith and Replit Pro. Complete details will be available closer to the date. Some other companies are offering credits to build applications using their software. For example, Deepgram and Milvus.
 
 ## How long is the hackathon?
 The TED AI Hackathon will span 30 hours starting at 10 AM Oct 14 and ending at 4pm 15, 2023. Attendees are welcome to begin developing their projects ahead of time, but this isn't required.
@@ -111,3 +111,5 @@ LF AI & Data Foundation has created a GitHub organization. We recommend all part
 
 ## How do I contact organizers about the hackathon?
 Send us an email at tedaihackathon@xy.ai.
+
+## 

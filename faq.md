@@ -54,7 +54,7 @@ Reception is on the 2nd floor, hackathon will be on the 3rd floor.
 ## What is the hackathon timeline?
 
 Aug 18: Application open  
-Sep 8: Application close  
+Sep 29: Application close  
 Sep 15: Teams announced  
 Oct 14: Hackathon start  
 Oct 15:  Hackathon end  

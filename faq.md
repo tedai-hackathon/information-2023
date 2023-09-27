@@ -78,7 +78,7 @@ We want to encourage on-site participation, all team members should attend live,
 Participants should bring their own laptops, chargers, and any other tools or software they require for coding. The hackathon organizers will provide the space, power, and Internet required for the competition.
 
 ## What programming languages and technologies are allowed?
-The hackathon is technology-agnostic, meaning you are free to choose any tool, modern programming language used by AI tools, framework, or technology stack to develop your AI solution. The focus is on creativity, innovation, and the practical maintainable implementation of AI concepts. Howevver, several companies are offering access to the enterprise version of their open source software for the participants. For example, LangSmith and Replit Pro. Complete details will be available closer to the date. Some other companies are offering credits to build applications using their software. For example, Deepgram and Milvus.
+The hackathon is technology-agnostic, meaning you are free to choose any tool, modern programming language used by AI tools, framework, or technology stack to develop your AI solution. The focus is on creativity, innovation, and the practical maintainable implementation of AI concepts. However, several companies are offering access to the enterprise version of their open source software for the participants. For example, LangSmith and Replit Pro. Complete details will be available closer to the date. Some other companies are offering credits to build applications using their software. For example, Deepgram and Milvus.
 
 ## How long is the hackathon?
 The TED AI Hackathon will span 30 hours starting at 10 AM Oct 14 and ending at 4pm 15, 2023. Attendees are welcome to begin developing their projects ahead of time, but this isn't required.
@@ -93,7 +93,7 @@ The judging criteria for the hackathon will consider factors such as innovation,
 More details about cloud access will be provided closer to the hackathon date.
 
 ## Are there any prizes for the winners?
-Venture Science is supporting the TED AI Hackathon by offering an unprecedented opportunity for innovation and entrepreneurship. The winner of the hackathon will receive a potential $25,000 investment to turn their hackathon project into a fully-fledged startup!
+Venture Science is supporting the TED AI Hackathon by offering an unprecedented opportunity for innovation and entrepreneurship. The winner of the hackathon will receive a potential $25,000 investment to turn their hackathon project into a fully-fledged startup! Read more details at https://www.venture-science.com/ted-ai-hackathon-2023.
 
 ## Can I attend the hackathon even if I am not participating?
 The hackathon is only intended for registered participants.

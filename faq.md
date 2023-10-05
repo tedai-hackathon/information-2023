@@ -72,19 +72,22 @@ There is no registration fee for the hackathon.
 Teams will consist of 2 to 5 members. If you prefer to participate in a team, make sure all team members are registered for the hackathon and indicate your team’s name during the registration process.
 
 ## Are teams required to attend in person or is remote participation ok?
-We want to encourage on-site participation, all team members should attend live, let the TED AI Hackathon team know if there is a mitigating circumstance.
+We want to encourage on-site participation, all team members should attend live, and let the TED AI Hackathon team know if there is a mitigating circumstance.
 
 ## What should I bring to the hackathon?
 Participants should bring their own laptops, chargers, and any other tools or software they require for coding. The hackathon organizers will provide the space, power, and Internet required for the competition.
 
 ## What programming languages and technologies are allowed?
-The hackathon is technology-agnostic, meaning you are free to choose any tool, modern programming language used by AI tools, framework, or technology stack to develop your AI solution. The focus is on creativity, innovation, and the practical maintainable implementation of AI concepts. However, several companies are offering access to the enterprise version of their open source software for the participants. For example, LangSmith and Replit Pro. Complete details will be available closer to the date. Some other companies are offering credits to build applications using their software. For example, Deepgram and Milvus.
+The hackathon is technology-agnostic, meaning you are free to choose any tool, modern programming language used by AI tools, framework, or technology stack to develop your AI solution. The focus is on creativity, innovation, and the practical maintainable implementation of AI concepts.
+
+## Are there any tools that are offering credits?
+Several companies are offering access to enterprise versions of their open source software for the participants. For example, [LangSmith](https://www.langchain.com/langsmith) and [Replit Pro](https://replit.com/pricing). Some other companies are offering credits to build applications using their software. For example, [Deepgram](https://deepgram.com/), [Qdrant](https://qdrant.tech/), and [Milvus](https://milvus.io/).
 
 ## How long is the hackathon?
 The TED AI Hackathon will span 30 hours starting at 10 AM Oct 14 and ending at 4pm 15, 2023. Attendees are welcome to begin developing their projects ahead of time, but this isn't required.
 
 ## Will there be technical support available?
-We will provide space, power, and Internet connectivity for the hackathon. There will be some limited mentor and technical support available. Your team should have all the skills to troubleshoot any technical issues otherwise.
+We will provide space, power, and Internet connectivity for the hackathon. There will be some limited mentoring and technical support available. Your team should have all the skills to troubleshoot any technical issues otherwise.
 
 ## What are the judging criteria for the hackathon?
 The judging criteria for the hackathon will consider factors such as innovation, technical complexity, practicality, user experience, and the overall quality of the AI solution developed during the hackathon. We will share the rubric that will be used by judges to evaluate participation. This will be shared closer to the hackathon date.
@@ -104,12 +107,11 @@ To stay updated on hackathon announcements, make sure to regularly check the off
 If you have any further questions or need additional information, please do not hesitate to reach out to the hackathon core team using tedaihackathon@xy.ai.
 
 ## What data may I use?
-Data should come from public sources with creative commons or permissive licenses or cited according to the data creator’s/publisher’s guidance. The data used in the hackathon must be accessible to a global audience. 
+Data should come from public sources with Creative Commons or permissive licenses or cited according to the data creator’s/publisher’s guidance. The data used in the hackathon must be accessible to a global audience. 
 
 ## Where will the code reside and what licenses will be considered?
-LF AI & Data Foundation has created a GitHub organization. We recommend all participants to publish their source code as a repo to this organization. The code use an OSI-approved license.
+LF AI & Data Foundation has created a GitHub organization. We recommend all participants publish their source code as a repo to this organization. The code must use an OSI-approved license.
 
 ## How do I contact organizers about the hackathon?
 Send us an email at tedaihackathon@xy.ai.
 
-## 

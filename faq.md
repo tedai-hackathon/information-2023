@@ -84,7 +84,7 @@ The hackathon is technology-agnostic, meaning you are free to choose any tool, m
 Several companies are offering access to enterprise versions of their open source software for the participants. For example, [LangSmith](https://www.langchain.com/langsmith) and [Replit Pro](https://replit.com/pricing). Some other companies are offering credits to build applications using their software. For example, [Deepgram](https://deepgram.com/), [Qdrant](https://qdrant.tech/), and [Milvus](https://milvus.io/).
 
 ## How long is the hackathon?
-The TED AI Hackathon will span 30 hours starting at 10 AM Oct 14 and ending at 4pm 15, 2023. Attendees are welcome to begin developing their projects ahead of time, but this isn't required.
+The TED AI Hackathon will span 30 hours starting at 10am on Oct 14, 2023 and ending at 4pm on Oct 15, 2023.
 
 ## Will there be technical support available?
 We will provide space, power, and Internet connectivity for the hackathon. There will be some limited mentoring and technical support available. Your team should have all the skills to troubleshoot any technical issues otherwise.

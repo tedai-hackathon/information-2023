@@ -36,7 +36,7 @@ The applications were opened on Aug 19th and closed on Sep 29th. The application
 
 ## Application Review process
 
-We had a total of 91 applications accepted with ~250 participants.
+We got a total of 91 applications with ~250 participants. An Application Entrant rubric was created to ensure equitable evaluation of the application. Each core team member reviewed a specific number of applications. We were limited by the capacity of the place hosting the hackathon so unfortunately could not accept them all. The applications were graded as green, purple, orange, and red. The applications in each bucket were approved based on how many applicants could be accommodated. FWIW this may not be the criteria next time.
 
 ## Judging
 

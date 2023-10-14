@@ -38,17 +38,17 @@ The applications were opened on Aug 19th and closed on Sep 29th. The application
 
 We got a total of 91 applications with ~250 participants. An Application Entrant rubric was created to ensure equitable evaluation of the application. Each core team member reviewed a specific number of applications. We were limited by the capacity of the place hosting the hackathon so unfortunately could not accept them all. The applications were graded as green, purple, orange, and red. The applications in each bucket were approved based on how many applicants could be accommodated. FWIW this may not be the criteria next time.
 
-## Judging
+## Registration
+
+The teams were pre-assigned rooms. They could move during the day but they need to be in their assigned teams during evaluation.
+
+## Evaluation
 
 We did two rounds of judging. There were 18 judges for round 1 and 6 judges for round 2.
 
-### Round 1
+Round 1 was science fair-style. A team of 2 judges and an escort went to the pre-assigned teams. Each judging team covered 4 hackathon teams. The team got 5 mins to show their work and 5 minutes of interactive Q&A with the judges. The judges got 2 mins to cast their votes.
 
-Science fair-style
-
-### Round 2
-
-Shark tank-style
+Round 2 was shark tank-style. The 6 judges sat in a panel and the teams presented in front of everybody. The teams got 5 mins to show their work and 5 minutes of interactive Q&A. The judges got 2 minutes to cast their votes.
 
 ### Judging platform
 

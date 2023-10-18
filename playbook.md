@@ -56,6 +56,10 @@ HackerEarth was used as the [platform for hackathon](https://tedaihackathon.hack
 
 ## Credits
 
+## Cloud Accomodations
+1.	Arranging coupon codes and instructions for access for TED AI participants should be coordinated two months in advance with list of contacts at various cloud providers identified three months in advance. recommend AWS, GCP,  IDC, Azure
+2.	TED AI cloud team should have a tested cloud session completed with the Azure, GCP, IDC, AWS etc to ensure administration of coupon codes and software stack etc all work from attendee point of view at least a month prior to conference. All access steps and coupon codes should be identified and documented at the one month mark as well. Notes should be provided for TED AI hackathon mentors and the mentors need a walkthrough and test of all steps prior. Cloud services contatc names and info should be documneted 2 months prior
+
 ## Swag
 
 ## Mentors
